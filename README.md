@@ -1,6 +1,10 @@
-# 2025 Passport Index Dataset
+# 2019-2025 Passport Index Dataset
+
 ## Travel visa requirements for 199 countries, in .csv
-Last updated on 12 January 2025. Check out the `/legacy` folder for earlier versions.
+
+This repo was last updated on 12 January 2025 and is *now archived*. Check out the `/legacy` folder for earlier, pre-January 2025 versions.
+
+🆕 For new (February 2026 onwards) data, [go here](https://github.com/imorte/passport-index-data).
 
 ![Passport](passport.png)
 
